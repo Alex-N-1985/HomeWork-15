@@ -124,3 +124,16 @@
         url(../fonts/Gilroy-UltraLightItalic.ttf);
 }
 
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 0px;
+}
+
+header {
+    background: url("../img/header_bg.png"), lightgray -3px 0px / 100.209% 100% no-repeat;
+    width: 1437px;
+    height: 803px;
+    flex-shrink: 0;
+    margin-left: 2.5%;
+}
